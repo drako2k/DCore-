@@ -5,3 +5,4 @@ A dark, futuristic Discord theme with a bold, energetic background and a clean, 
 ![Preview](https://i.ibb.co/zHVxmMPz/Screenshot-2.png)
 
 ## Download
+- [Dcore2.0](https://github.com/drako2k/DCore-/releases/download/discordtheme/Dcorev2.0.css)
